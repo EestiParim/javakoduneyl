@@ -8,7 +8,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 /**
- * Created by Sannu on 12.10.2016.
+ * Created by tõnis on 12.10.2016.
  */
 public class Dealer {
 
